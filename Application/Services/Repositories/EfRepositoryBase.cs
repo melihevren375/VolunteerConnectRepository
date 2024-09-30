@@ -158,7 +158,7 @@ public class EfRepositoryBase<TEntity, TContext> : IAsyncRepository<TEntity>
 
     public Task DeleteRangeAsync(ICollection<TEntity> entities, bool permenant = false)
     {
-        throw new NotImplementedException();
+        throw new NotImplementedException("Hata");
     }
 
     public Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> predicate, Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null, bool withDeleted = false, bool enableTracking = true, CancellationToken cancellationToken = default)
