@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Beneficiaries\Commands\Delete\" />
+    <Folder Include="Features\Beneficiaries\Commands\Update\" />
+    <Folder Include="Features\Beneficiaries\Constants\" />
+    <Folder Include="Features\Beneficiaries\Rules\" />
+    <Folder Include="Features\Beneficiaries\Queries\" />
+    <Folder Include="Features\Beneficiaries\Profiles\" />
+    <Folder Include="Features\Participations\Commands\Delete\" />
+    <Folder Include="Features\Participations\Commands\Update\" />
+    <Folder Include="Features\Participations\Constants\" />
+    <Folder Include="Features\Participations\Rules\" />
+    <Folder Include="Features\Participations\Queries\" />
+    <Folder Include="Features\Participations\Profiles\" />
+    <Folder Include="Features\Projects\Commands\Delete\" />
+    <Folder Include="Features\Projects\Commands\Update\" />
+    <Folder Include="Features\Projects\Constants\" />
+    <Folder Include="Features\Projects\Rules\" />
+    <Folder Include="Features\Projects\Queries\" />
+    <Folder Include="Features\Projects\Profiles\" />
+    <Folder Include="Features\UserRoles\Commands\Delete\" />
+    <Folder Include="Features\UserRoles\Commands\Update\" />
+    <Folder Include="Features\UserRoles\Constants\" />
+    <Folder Include="Features\UserRoles\Rules\" />
+    <Folder Include="Features\UserRoles\Queries\" />
+    <Folder Include="Features\UserRoles\Profiles\" />
+    <Folder Include="Features\Volunteers\Commands\Delete\" />
+    <Folder Include="Features\Volunteers\Commands\Update\" />
+    <Folder Include="Features\Volunteers\Constants\" />
+    <Folder Include="Features\Volunteers\Rules\" />
+    <Folder Include="Features\Volunteers\Queries\" />
+    <Folder Include="Features\Volunteers\Profiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\E\u011Fitim\\CBU\\VolunteerConnectProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F65581D-2786-4DCD-B9E1-276EE166B296}|Application\\Application.csproj|c:\\users\\casper\\desktop\\e\u011Fitim\\cbu\\volunteerconnectproject\\application\\services\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F65581D-2786-4DCD-B9E1-276EE166B296}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\E\u011Fitim\\CBU\\VolunteerConnectProject\\Application\\Services\\Repositories\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\EfRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\E\u011Fitim\\CBU\\VolunteerConnectProject\\Application\\Services\\Repositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Application\\Services\\Repositories\\EfRepositoryBase.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:16:53.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

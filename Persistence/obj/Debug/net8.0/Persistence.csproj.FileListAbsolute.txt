@@ -1,0 +1,12 @@
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\Casper\Desktop\Eğitim\CBU\VolunteerConnectProject\Persistence\obj\Debug\net8.0\ref\Persistence.dll
